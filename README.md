@@ -6,4 +6,5 @@ Análisis de la carrera de las empresas con python, exploración de datos y visu
 <img width="996" height="662" alt="Captura de pantalla 2026-05-09 a las 22 01 47" src="https://github.com/user-attachments/assets/1965c356-1f70-43cd-b71b-82e2baa89c26" />
 <img width="1076" height="412" alt="3" src="https://github.com/user-attachments/assets/cfab783c-2eb5-4b35-974d-c378285c8c96" />
 <img width="1076" height="494" alt="Captura de pantalla 2026-05-09 a las 22 01 32" src="https://github.com/user-attachments/assets/87809f1a-ebb4-4dc6-a5d5-51c86408374c" />
+<img width="1077" height="408" alt="Captura de pantalla 2026-05-09 a las 22 03 29" src="https://github.com/user-attachments/assets/8d72a59a-85d1-47a0-b969-e441e6bd4f04" />
 
