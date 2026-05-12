@@ -1,6 +1,6 @@
 # Análisis_carrera_de_las_empresas_2025
 Análisis de la carrera de las empresas con python, exploración de datos y visualizaciones para la extracción de conclusiones.
-
+Para abrilo ir a Analisis_Carrera_Empresas_2025 (5).ipynb
 
 <img width="830" height="662" alt="1" src="https://github.com/user-attachments/assets/30f5c708-cc55-4cdb-8265-a2aaf698087b" />
 <img width="826" height="492" alt="2" src="https://github.com/user-attachments/assets/964a1173-5e73-4582-a35e-ea7049115414" />
